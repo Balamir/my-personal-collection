@@ -1,3 +1,13 @@
+# Collections / Books
+* [**awesome-nodejs-projects**](https://github.com/typicode/awesome-nodejs-projects) Curated list of awesome open-source applications made with Node.js
+* [**awesome-nodejs**](https://github.com/typicode/awesome-nodejs) ⚡️ Delightful Node.js packages and resources
+* [**spellbook-of-modern-webdev**](https://github.com/dexteryy/spellbook-of-modern-webdev) A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+* [**coolhue**](https://github.com/webkul/coolhue) Coolest handpicked Gradient Hues and Swatches for your next super ⚡ amazing stuff.
+* [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript
+
+# Frameworks
+* [**flutter**](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. https://flutter.io
+
 # npm-apm-package-lists
 My favorite npm/apm packages
 
@@ -11,15 +21,16 @@ My favorite npm/apm packages
 * [**code-split-component**](https://github.com/ctrlplusb/code-split-component) Declarative code splitting for your Wepback bundled React projects, with SSR support.
 * [**code-split-match**](https://github.com/ctrlplusb/code-split-match) A Webpack 2 code splitting Match component for React Router v4.
 
-
 ## Atom
 ### Themes
 * [**apex-ui**](https://github.com/apex/apex-ui) Apex monochrome Atom theme UI.
+* [**atomthemes**](http://atomthemes.io) Atom themes collection
 
 ### Packages
 * [**no-title-bar**](https://atom.io/packages/no-title-bar) Provides support for a hidden Atom title bar.
 
 ## Other
+* [**redbird**](https://github.com/OptimalBits/redbird) A modern reverse proxy for node
 * [**json-server**](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 * [**pegasus**](https://github.com/typicode/pegasus) Load JSON while still loading other scripts http://typicode.github.io/pegasus/
 * [**jsonplaceholder**](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server http://jsonplaceholder.typicode.com
@@ -30,7 +41,5 @@ My favorite npm/apm packages
 * [**user-startup**](https://github.com/typicode/user-startup) Auto start commands when you log in (cross-platform)
 * [**stop-server**](https://github.com/typicode/stop-server) 📱 Shut down your computer with your phone
 * [**server-ready**](https://github.com/typicode/server-ready) Know when a server is ready to receive requests
-* [**awesome-nodejs-projects**](https://github.com/typicode/awesome-nodejs-projects) Curated list of awesome open-source applications made with Node.js
-* [**awesome-nodejs**](https://github.com/typicode/awesome-nodejs) ⚡️ Delightful Node.js packages and resources
 * [**node-cors**](https://github.com/typicode/node-cors) A node.js package for providing a Connect/Express middleware that enables CORS with various options. https://npmjs.org/package/cors
 
